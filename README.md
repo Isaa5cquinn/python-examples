@@ -1,9 +1,21 @@
-# Python Examples
+## Running Python Examples
 
-A repository focused on Python programming examples.
+### Requirements
 
-## Purpose
-Practice Python programming and explore fundamental concepts.
+- Python 3 installed on your computer.
+- A code editor or terminal.
 
-## Getting Started
-Review the Python source files and run the available examples using Python.
+### Execution
+
+Open a terminal in the project directory.
+
+Run a Python example using:
+
+    python filename.py
+
+### Practice Tips
+
+- Read each example carefully.
+- Test different input values.
+- Observe the program output.
+- Experiment with small modifications.
