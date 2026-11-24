@@ -19,3 +19,12 @@ Run a Python example using:
 - Test different input values.
 - Observe the program output.
 - Experiment with small modifications.
+## Manual Testing Checklist
+
+- [ ] Run an existing Python example using Python 3.
+- [ ] Compare the program output with the expected behavior.
+- [ ] Try another supported input and check for errors.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
